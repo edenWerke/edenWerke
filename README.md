@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">Visitor Count</h3>
+<h3 align="center">Profile Views:</h3>
 <p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/edenWerke/count.svg)
+  <img src="https://shields.io/badge/Profile%20views-408-blue" alt="Profile Views Badge"/>
 </p>
 
 ---
