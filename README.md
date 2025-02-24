@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 
 ---
 
+<h3 align="center">Visitor Count</h3>
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/edenWerke/count.svg)
+</p>
+
+---
+
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://github.com/edenWerke" target="_blank">GitHub</a> • 
@@ -66,11 +73,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Current Status:</h3>
 <p align="left">
-  🔭 I’m currently working on exciting frontend projects that enhance user experience.<br>
-  🌱 I’m currently learning modern frameworks like React and Vue.js.<br>
-  👯 I’m looking to collaborate on innovative web applications or design projects.<br>
-  🤔 I’m looking for help with advanced CSS techniques and responsive design.<br>
-  💬 Ask me about web development, JavaScript frameworks, or design trends!<br>
+  🔭 I’m currently working on exciting projects involving frontend development.<br>
+  🌱 I’m currently learning more about modern frameworks and cloud technologies.<br>
+  👯 I’m looking to collaborate on open-source projects or any innovative ideas you have.<br>
+  🤔 I’m looking for help with advanced algorithms and optimization techniques.<br>
+  💬 Ask me about web development, programming languages, or tech trends!<br>
   ⚡ Fun fact: I love solving puzzles and playing strategy games!
 </p>
 
