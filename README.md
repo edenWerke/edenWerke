@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://github.com/edenWerke" target="_blank">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/eden-werke-772a4a337/" target="_blank">LinkedIn</a> • 
   <a href="mailto:edenw6292@gmail.com">Email</a>
 </p>
 
@@ -75,11 +75,4 @@ Here are some ideas to get you started:
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=edenWerke&show_icons=true&theme=radical" alt="Eden's GitHub Stats"/>
-</p>
-
----
-
-<h3 align="left">Profile Views:</h3>
-<p align="left">
-  ![Profile Views](https://shields.io/badge/Profile%20views-408-blue)
 </p>
