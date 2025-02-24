@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Eden Werke</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6d/e1/0f/6de10fff994dd378635dafbbaaee9b07.gif" alt="Coding" width="300"/>
-</p>
-
 ---
 
 <h3 align="left">Connect with Me:</h3>
@@ -66,11 +62,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Current Status:</h3>
 <p align="left">
-  🔭 I’m currently working on exciting frontend projects that enhance user experience.<br>
-  🌱 I’m currently learning modern frameworks like React and Vue.js.<br>
-  👯 I’m looking to collaborate on innovative web applications or design projects.<br>
-  🤔 I’m looking for help with advanced CSS techniques and responsive design.<br>
-  💬 Ask me about web development, JavaScript frameworks, or design trends!<br>
+  🔭 I’m currently working on exciting projects involving frontend development.<br>
+  🌱 I’m currently learning more about modern frameworks and cloud technologies.<br>
+  👯 I’m looking to collaborate on open-source projects or any innovative ideas you have.<br>
+  🤔 I’m looking for help with advanced algorithms and optimization techniques.<br>
+  💬 Ask me about web development, programming languages, or tech trends!<br>
   ⚡ Fun fact: I love solving puzzles and playing strategy games!
 </p>
 
@@ -79,4 +75,11 @@ Here are some ideas to get you started:
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=edenWerke&show_icons=true&theme=radical" alt="Eden's GitHub Stats"/>
+</p>
+
+---
+
+<h3 align="left">Profile Views:</h3>
+<p align="left">
+  ![Profile Views](https://shields.io/badge/Profile%20views-408-blue)
 </p>
