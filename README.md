@@ -1,24 +1,39 @@
-# Hi 👋, I'm Eden
-## How to reach me
-[edenw6292@gmail.com]
+<!--
 
-## Connect with me
+**edenWerke/edenWerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+
+- 🌱 I’m currently learning ...
+
+- 👯 I’m looking to collaborate on ...
+
+- 🤔 I’m looking for help with ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...edenw6292@gmail.com
+
+- 😄 Pronouns: .
+
+- ⚡ Fun fact: ...
+
+-->
+
+<h1 align="center">Hi 👋, I'm Eden Werke</h1>
+
+<h3 align="center">A passionate Fullstack developer</h3>
+
+<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6d/e1/0f/6de10fff994dd378635dafbbaaee9b07.gif">/ -->
+
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
 </p>
 
-## Languages and Tools:
-- HTML ![HTML](https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=html5&logoColor=white)
-- CSS ![CSS](https://img.shields.io/badge/CSS-#1572B6?style=flat-square&logo=css3&logoColor=white)
-- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<h3 align="left">Languages and Tools:</h3>
 
-## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
-## Eduniya's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
