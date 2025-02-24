@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Eden Werke</h1>
-<h3 align="center">A Passionate Fullstack Developer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
-<!-- Uncomment the following line to add an image -->
-<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6d/e1/0f/6de10fff994dd378635dafbbaaee9b07.gif"> -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6d/e1/0f/6de10fff994dd378635dafbbaaee9b07.gif" alt="Coding" width="300"/>
+</p>
 
 ---
 
@@ -65,11 +66,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Current Status:</h3>
 <p align="left">
-  🔭 I’m currently working on exciting projects involving fullstack development.<br>
-  🌱 I’m currently learning more about modern frameworks and cloud technologies.<br>
-  👯 I’m looking to collaborate on open-source projects or any innovative ideas you have.<br>
-  🤔 I’m looking for help with advanced algorithms and optimization techniques.<br>
-  💬 Ask me about web development, programming languages, or tech trends!<br>
+  🔭 I’m currently working on exciting frontend projects that enhance user experience.<br>
+  🌱 I’m currently learning modern frameworks like React and Vue.js.<br>
+  👯 I’m looking to collaborate on innovative web applications or design projects.<br>
+  🤔 I’m looking for help with advanced CSS techniques and responsive design.<br>
+  💬 Ask me about web development, JavaScript frameworks, or design trends!<br>
   ⚡ Fun fact: I love solving puzzles and playing strategy games!
 </p>
 
