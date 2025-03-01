@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Eden Werke</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">Full stack Developer</h3>
 
 ---
 
