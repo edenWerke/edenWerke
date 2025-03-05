@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/edenWerke" target="_blank">GitHub</a> • 
   <a href="https://www.linkedin.com/in/eden-werke-772a4a337/" target="_blank">LinkedIn</a> • 
   <a href="mailto:edenw6292@gmail.com">Email</a>
+   <a href="https://github.com/edenWerke/portfolio.git">Portfolio</a>
 </p>
 
 ---
