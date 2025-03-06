@@ -19,7 +19,7 @@
 
 <h3 align="left">Profile Views:</h3>
 <p align="left">
-  ![Profile Views](https://komarev.com/ghpvc/?username=edenWerke&label=Profile%20Views&color=blue&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=edenWerke&label=Profile%20views&color=0e75b6&style=flat" alt="edenWerke" />
 </p>
 
 ---
