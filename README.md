@@ -17,6 +17,13 @@
 
 ---
 
+<h3 align="left">Profile Views:</h3>
+<p align="left">
+  ![Profile Views](https://komarev.com/ghpvc/?username=edenWerke&label=Profile%20Views&color=blue&style=flat)
+</p>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
