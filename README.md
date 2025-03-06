@@ -1,20 +1,5 @@
-<!--
-**edenWerke/edenWerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: edenw6292@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Eden Werke</h1>
-<h1 align="center">Full stack Developer</h1>
+<h1 align="center">Full Stack Developer</h1>
 
 ---
 
@@ -22,8 +7,12 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://github.com/edenWerke" target="_blank">GitHub</a> • 
   <a href="https://www.linkedin.com/in/eden-werke-772a4a337/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:edenw6292@gmail.com">Email</a>• 
-   <a href="https://github.com/edenWerke/portfolio.git">Portfolio</a>
+  <a href="mailto:edenw6292@gmail.com">Email</a>
+</p>
+
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+  <a href="https://github.com/edenWerke/portfolio.git" target="_blank">View My Portfolio</a>
 </p>
 
 ---
