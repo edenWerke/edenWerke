@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eden Werke</h1>
 <h1 align="center">Full Stack Developer</h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=edenWerke&label=Profile%20views&color=0e75b6&style=flat" alt="edenWerke" />
+</p>
+
 ---
 
 <h3 align="left">Connect with Me:</h3>
@@ -13,13 +17,6 @@
 <h3 align="left">Portfolio:</h3>
 <p align="left">
   <a href="https://github.com/edenWerke/portfolio.git" target="_blank">View My Portfolio</a>
-</p>
-
----
-
-<h3 align="left">Profile Views:</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=edenWerke&label=Profile%20views&color=0e75b6&style=flat" alt="edenWerke" />
 </p>
 
 ---
