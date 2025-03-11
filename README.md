@@ -16,7 +16,7 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-  <a href="https://edenportfolio-git-main-edenwerkes-projects.vercel.app/" target="_blank">View My Portfolio</a>
+  <a href="https://portfolio-og9h-git-main-edenwerkes-projects.vercel.app/" target="_blank">View My Portfolio</a>
 </p>
 
 ---
