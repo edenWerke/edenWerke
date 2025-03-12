@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eden Werke</h1>
-<h1 align="center">Full Stack & Mobile App Developer</h1>
+<h1 align="center">Full Stack Developer</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=edenWerke&label=Profile%20views&color=0e75b6&style=flat" alt="edenWerke" />
@@ -54,13 +54,9 @@
 
 ---
 
-<h3 align="left">Mobile App Development:</h3>
+<h3 align="left">Description:</h3>
 <p align="left">
-  📱 I specialize in mobile app development for iOS and Android platforms.<br>
-  🔧 Proficient in technologies like React Native and Flutter for cross-platform applications.<br>
-  🌟 Focused on creating responsive and user-friendly interfaces.<br>
-  🚀 Always exploring the latest mobile technologies to enhance app performance and usability.<br>
-  💡 Open to collaboration on innovative mobile projects and ideas!
+  I am a full stack developer with a strong focus on both mobile app and web development. I specialize in creating applications for iOS and Android platforms using frameworks such as React Native and Flutter, as well as developing dynamic web applications using technologies like HTML, CSS, and JavaScript. My commitment lies in designing intuitive and responsive user interfaces that enhance user experience across all platforms. I continuously explore the latest technologies and best practices to optimize performance and functionality. I am open to collaborating on innovative projects and bringing creative ideas to life.
 </p>
 
 ---
@@ -71,7 +67,7 @@
   🌱 I’m currently learning more about modern frameworks and cloud technologies.<br>
   👯 I’m looking to collaborate on open-source projects or any innovative ideas you have.<br>
   🤔 I’m looking for help with advanced algorithms and optimization techniques.<br>
-  💬 Ask me about mobile development, programming languages, or tech trends!<br>
+  💬 Ask me about mobile and web development, programming languages, or tech trends!<br>
   ⚡ Fun fact: I love solving puzzles and playing strategy games!
 </p>
 
