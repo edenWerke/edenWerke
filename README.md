@@ -54,9 +54,9 @@
 
 ---
 
-<h3 align="left">Description:</h3>
+<h3 align="left">About Me:</h3>
 <p align="left">
-  I am a full stack developer with a strong focus on both mobile app and web development. I specialize in creating applications for iOS and Android platforms using frameworks such as React Native and Flutter, as well as developing dynamic web applications using technologies like HTML, CSS, and JavaScript. My commitment lies in designing intuitive and responsive user interfaces that enhance user experience across all platforms. I continuously explore the latest technologies and best practices to optimize performance and functionality. I am open to collaborating on innovative projects and bringing creative ideas to life.
+  I am a full stack developer specializing in mobile and web applications. I create intuitive user experiences on both iOS and Android platforms and develop dynamic web applications using modern technologies. I'm passionate about delivering high-quality solutions and collaborating on innovative projects.
 </p>
 
 ---
