@@ -96,7 +96,4 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=edenWerke&show_icons=true&theme=radical" alt="Eden's GitHub Stats"/>
-</p>
+
