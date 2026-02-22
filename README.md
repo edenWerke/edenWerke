@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eden Werke</h1>
-<h1 align="center">Full Stack Developer</h1>
+<h1 align="center">Full Stack Developer | Mobile App Developer</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=edenWerke&label=Profile%20views&color=0e75b6&style=flat" alt="edenWerke" />
