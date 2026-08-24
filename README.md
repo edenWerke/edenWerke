@@ -8,13 +8,13 @@
 ---
 
 <h3 align="left">Connect with Me:</h3>
+
 <p align="left">
   <a href="https://github.com/edenWerke" target="_blank">GitHub</a> • 
   <a href="https://www.linkedin.com/in/eden-werke-772a4a337/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:edenw6292@gmail.com">Email</a> •
-  <a href="tel:+251919489110">Phone</a>
+  <a href="mailto:edenw6292@gmail.com">Email</a> • 
+  <a href="tel:+251919489110">+251 919 489 110</a>
 </p>
-
 <h3 align="left">Portfolio:</h3>
 <p align="left">
   <a href="https://portfolio-og9h-git-main-edenwerkes-projects.vercel.app/" target="_blank">View My Portfolio</a>
