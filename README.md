@@ -11,7 +11,8 @@
 <p align="left">
   <a href="https://github.com/edenWerke" target="_blank">GitHub</a> • 
   <a href="https://www.linkedin.com/in/eden-werke-772a4a337/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:edenw6292@gmail.com">Email</a>
+  <a href="mailto:edenw6292@gmail.com">Email</a> •
+  <a href="tel:+251919489110">Phone</a>
 </p>
 
 <h3 align="left">Portfolio:</h3>
@@ -52,8 +53,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" width="40" height="40"/>
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" width="40" height="40"/>
+  </a>
 
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -74,7 +75,7 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 </p>
@@ -99,5 +100,3 @@
 </p>
 
 ---
-
-
