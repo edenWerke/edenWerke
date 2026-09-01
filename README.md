@@ -92,10 +92,7 @@
 <h3 align="left">Current Status:</h3>
 <p align="left">
   🔭 I’m currently working on exciting projects involving frontend development.<br>
-  🌱 I’m currently learning more about modern frameworks and cloud technologies.<br>
   👯 I’m looking to collaborate on open-source projects or any innovative ideas you have.<br>
-  🤔 I’m looking for help with advanced algorithms and optimization techniques.<br>
-  💬 Ask me about mobile and web development, programming languages, or tech trends!<br>
   😄 Pronouns: she/her<br>
   ⚡️ Fun fact: Did you know humans didn't actually invent anything—we studied and repeated what God built billions of years ago, but at our own scale.
 </p>
